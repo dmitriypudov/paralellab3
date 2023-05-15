@@ -1,0 +1,10 @@
+﻿  pudovlab3.cpp
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(173,15): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(174,24): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(175,24): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(176,24): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(177,24): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(178,24): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(179,24): warning C4244: =: преобразование "uint64_t" в "uint8_t", возможна потеря данных
+C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\pudovlab3\pudovlab3.cpp(223,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  pudovlab3.vcxproj -> C:\Users\ЧЕЙСИЛА\source\repos\pudovlab3\x64\Debug\pudovlab3.exe
